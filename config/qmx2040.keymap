@@ -207,7 +207,7 @@
       bindings = <
         &kp GRAVE &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp PSCRN   &kp DEL   &kp N6 &kp N7 &kp N8    &kp N9  &kp N0   &kp MINUS &kp EQUAL
         &kp TAB   &kp Q  &kp W  &kp E  &kp R  &kp T  &kp CAPS    &kp BSPC  &kp Y  &kp U  &kp I     &kp O   &kp P    &kp LBKT  &kp RBKT
-        &kp NUBS  &kp A  &kp S  &kp D  &kp F  &kp G  &kp ESC     &kp ENTER &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT   &kp BSLH
+        &kp NUBS  &kp A  &kp S  &kp D  &kp F  &kp G  &none       &kp ENTER &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT   &kp BSLH
                   &kp Z  &kp X  &kp C  &kp V  &kp B                        &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH
               &base_gui &base_alt &bsk_shift &mhlt LAYER_NAV SPC &base_ctl   &EZ_SLMH(LAYER_NAV) &mhlt LAYER_NAV SPC &EZ_SK(RALT) &base_alt &base_gui
            &mo LAYER_TT  &mo LAYER_HRM  &mo LAYER_NO_STICKY  &mac_dip  &mo LAYER_CUSTOM_1
@@ -230,8 +230,8 @@
       display-name = "ThumbTaps";
       bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &none &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &none &trans &trans &trans &trans &trans &trans &trans
                &trans &trans &trans &trans &trans                         &trans &trans &trans &trans &trans
            &trans &tt_alt_l &trans &kp BSPC &tt_ctl_l      &tt_ctl_r &mhlt LAYER_NAV SPC &sym_altgr LAYER_SYMBOLS RALT &tt_alt_r &trans
           &trans  &trans  &trans  &trans  &trans
@@ -324,5 +324,6 @@
           &trans &trans &trans &trans &trans
       >;
     };
+
   };
 };

@@ -48,6 +48,12 @@ Z X C V B   N M , . /       ~ [ ] _ #   | ! ; : ?
 The existing navigation thumb key remains available. On hosts where AltGr+2
 or AltGr+7 are dead keys, finish `~` or backtick with Space.
 
+The central Escape key no longer sends Escape. With thumb taps enabled,
+the central Backspace and Enter keys are also disabled for normal typing.
+The central Delete key remains active.
+Navigation still assigns media controls to all six central keys: Previous/Next,
+Play/Pause, Volume Up/Down, and Mute.
+
 ### Navigation (QMx2040)
 
 Navigation follows the orange bindings in the reference layout. Positions below
