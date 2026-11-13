@@ -23,6 +23,7 @@
 #define LAYER_CUSTOM_1      6
 #define LAYER_CUSTOM_2      7
 #define LAYER_CUSTOM_3      8
+#define LAYER_SYMBOLS       9
 
 // HRM Shorthands
 #define HRM_A    &hrm LSHIFT A
@@ -117,12 +118,13 @@
       bindings = <&kp>, <&osm>;
     };
 
-    tt_thumb: tt_thumb {
-      compatible = "zmk,behavior-mod-morph";
-      #binding-cells = <0>;
-      bindings  = <&mhsc LAYER_NAV BSPC>, <&mhlt LAYER_NAV SPC>;
-      mods      = <MOD_RALT>;
-      keep-mods = <MOD_RALT>;
+    sym_altgr: symbols_altgr {
+      compatible = "zmk,behavior-hold-tap";
+      #binding-cells = <2>;
+      tapping-term-ms = <TAPPING_TERM>;
+      flavor = "tap-preferred";
+      // Hold Symbols; tap one-shot AltGr, as on the base layer.
+      bindings = <&mo>, <&osm>;
     };
 
     np: numpad {
@@ -198,7 +200,7 @@
         &kp TAB   &kp Q  &kp W  &kp E  &kp R  &kp T  &kp CAPS    &kp BSPC  &kp Y  &kp U  &kp I     &kp O   &kp P    &kp LBKT  &kp RBKT
         &kp NUBS  &kp A  &kp S  &kp D  &kp F  &kp G  &kp ESC     &kp ENTER &kp H  &kp J  &kp K     &kp L   &kp SEMI &kp SQT   &kp BSLH
                   &kp Z  &kp X  &kp C  &kp V  &kp B                        &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH
-              &base_gui &base_alt &bsk_shift &kp SPC &base_ctl   &EZ_SLMH(LAYER_NAV) &kp SPC &EZ_SK(RALT) &base_alt &base_gui
+              &base_gui &base_alt &bsk_shift &mhlt LAYER_NAV SPC &base_ctl   &EZ_SLMH(LAYER_NAV) &mhlt LAYER_NAV SPC &EZ_SK(RALT) &base_alt &base_gui
            &mo LAYER_TT  &mo LAYER_HRM  &mo LAYER_NO_STICKY  &mac_dip  &mo LAYER_CUSTOM_1
       >;
     };
@@ -222,7 +224,7 @@
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
                &trans &trans &trans &trans &trans                         &trans &trans &trans &trans &trans
-           &trans &tt_alt_l &trans &tt_thumb &tt_ctl_l      &tt_ctl_r &mhlt LAYER_NAV SPC &trans &tt_alt_r &trans
+           &trans &tt_alt_l &trans &kp BSPC &tt_ctl_l      &tt_ctl_r &mhlt LAYER_NAV SPC &sym_altgr LAYER_SYMBOLS RALT &tt_alt_r &trans
           &trans  &trans  &trans  &trans  &trans
       >;
     };
@@ -299,5 +301,19 @@
       >;
     };
 
+
+    // Arsenik Symbols, for a French AZERTY host (Linux/Windows).
+    // Positions follow the physical QWERTY grid, independently of letter labels.
+    symbols_layer: symbols_layer {
+      display-name = "Symbols";
+      bindings = <
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &kp RA(N9) &kp NUBS &kp LS(NUBS) &kp RBKT &kp LS(SQT) &trans &trans &kp RA(N0) &kp N1 &kp BSLH &kp N4 &kp RA(N7) &trans &trans
+        &trans &kp RA(N4) &kp N5 &kp MINUS &kp RA(EQUAL) &kp EQUAL &trans &trans &kp RA(N8) &kp LS(EQUAL) &kp N6 &kp LS(DOT) &kp N3 &trans &trans
+               &kp RA(N2) &kp RA(N5) &kp RA(MINUS) &kp N8 &kp RA(N3) &kp RA(N6) &kp FSLH &kp COMMA &kp DOT &kp LS(M)
+               &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+          &trans &trans &trans &trans &trans
+      >;
+    };
   };
 };

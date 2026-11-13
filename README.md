@@ -21,6 +21,33 @@ Going from left to right, those switches can:
 - enable Mac support
 - toggle your custom layer
 
+### Symbols (QMx2040)
+
+Space taps Space and holds Navigation after 300 ms, whether thumb taps are
+enabled or disabled.
+
+With thumb taps enabled:
+
+- The left Backspace/Nav thumb key only sends Backspace (no layer on hold).
+- AltGr taps a one-shot AltGr modifier and holds Symbols after 300 ms.
+
+Release Space or AltGr to leave its layer. Symbols follows the
+[Arsenik Symbols layer](https://github.com/OneDeadKey/arsenik#symbols).
+With thumb taps disabled, AltGr keeps its original behavior.
+
+The symbol keycodes target **French AZERTY on Linux/Windows**. The following
+positions use physical QWERTY labels, as in the keymap, rather than AZERTY
+legends:
+
+```text
+Q W E R T   Y U I O P       ^ < > $ %   @ & * ' `
+A S D F G   H J K L ;       { ( ) } =   \ + - / "
+Z X C V B   N M , . /       ~ [ ] _ #   | ! ; : ?
+```
+
+The existing navigation thumb key remains available. On hosts where AltGr+2
+or AltGr+7 are dead keys, finish `~` or backtick with Space.
+
 ### Mod-Holds
 
 The navigation layer makes use of a custom zmk behavior called a `mod-hold`.
