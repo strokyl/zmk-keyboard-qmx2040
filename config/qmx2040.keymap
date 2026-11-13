@@ -25,12 +25,14 @@
 #define LAYER_CUSTOM_3      8
 
 // HRM Shorthands
-#define HRM_S &hrm LGUI S
-#define HRM_D &hrm LCTL D
-#define HRM_F &hrm LALT F
-#define HRM_J &hrm LALT J
-#define HRM_K &hrm LCTL K
-#define HRM_L &hrm LGUI L
+#define HRM_A    &hrm LSHIFT A
+#define HRM_S    &hrm LGUI   S
+#define HRM_D    &hrm LCTL   D
+#define HRM_F    &hrm LALT   F
+#define HRM_J    &hrm LALT   J
+#define HRM_K    &hrm LCTL   K
+#define HRM_L    &hrm LGUI   L
+#define HRM_SEMI &hrm LSHIFT SEMI
 
 // HRM Shorthands (mac)
 #define MHRM_S &hrm LALT S
@@ -228,9 +230,9 @@
     hrm_layer: hrm_layer {
       display-name = "HomeRowMods";
       bindings = <
-        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-        &trans &trans &hrm_s &hrm_d &hrm_f &trans &trans &trans &trans &hrm_j &hrm_k &hrm_l &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans    &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans    &trans &trans
+        &trans HRM_A  &hrm_s &hrm_d &hrm_f &trans &trans &trans &trans &hrm_j &hrm_k &hrm_l HRM_SEMI  &trans &trans
                &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans
                &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans
           &trans  &trans  &trans  &trans  &trans
