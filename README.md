@@ -48,6 +48,25 @@ Z X C V B   N M , . /       ~ [ ] _ #   | ! ; : ?
 The existing navigation thumb key remains available. On hosts where AltGr+2
 or AltGr+7 are dead keys, finish `~` or backtick with Space.
 
+### Navigation (QMx2040)
+
+Navigation follows the orange bindings in the reference layout. Positions below
+use physical QWERTY labels:
+
+```text
+Q: Escape    W: Home  E: Up    R: End    T: Page Up
+A: Select all S: Left D: Down  F: Right G: Page Down
+Z: Undo      X: Cut   C: Copy  V: Paste B: Redo
+
+U I O P       7 8 9 /
+H J K L ;     - 4 5 6 0
+N M , . /     , 1 2 3 .
+```
+
+Editing shortcuts target French AZERTY and use Command when the Mac DIP switch
+is enabled. The number row keeps F1–F12; media and brightness keys remain
+available around the main grid.
+
 ### Mod-Holds
 
 The navigation layer makes use of a custom zmk behavior called a `mod-hold`.
