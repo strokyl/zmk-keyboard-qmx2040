@@ -24,6 +24,8 @@
 #define LAYER_CUSTOM_2      7
 #define LAYER_CUSTOM_3      8
 #define LAYER_SYMBOLS       9
+#define LAYER_SWAP_NAV     10
+#define LAYER_SWAP_TT      11
 
 // HRM Shorthands
 #define HRM_A    &hrm LSHIFT A
@@ -140,6 +142,14 @@
       keep-mods = <MOD_RALT>;
     };
 
+    swap_shift: swap_shift {
+      compatible = "zmk,behavior-mod-morph";
+      #binding-cells = <0>;
+      bindings = <&EZ_SK(LSFT)>, <&kp ESC>;
+      mods = <MOD_RALT>;
+      keep-mods = <MOD_RALT>;
+    };
+
     MOD_HOLD_1(mhmo,  &mo,  0xff)
     MOD_HOLD_2(mhlt,  &lt,  0xff)
     MOD_HOLD_2(mhsc,  &sc,  0xff)
@@ -159,6 +169,8 @@
     MAC_MORPH(nav_paste,   &kp LC(V), &kp LG(V))
     MAC_MORPH(nav_redo,    &kp LC(Y), &kp LG(LS(W)))
 
+
+    MAC_MORPH(swap_tt_alt_l, &mt LALT CAPSLOCK, &mt LCTL CAPSLOCK)
 
     MAC_MORPH(tt_alt_l,  &mt LALT ESC,   &mt LCTL ESC)
     MAC_MORPH(tt_ctl_l,  &mt LCTL TAB,   &mt LGUI TAB)
@@ -193,6 +205,14 @@
 
   conditional_layers {
     compatible = "zmk,conditional-layers";
+    swap_nav {
+      if-layers = <LAYER_CUSTOM_1 LAYER_NAV>;
+      then-layer = <LAYER_SWAP_NAV>;
+    };
+    swap_tt {
+      if-layers = <LAYER_CUSTOM_1 LAYER_TT>;
+      then-layer = <LAYER_SWAP_TT>;
+    };
     nav_tt {
       if-layers = <LAYER_TT LAYER_NAV>;
       then-layer = <LAYER_NAV_TT>;
@@ -275,13 +295,13 @@
     };
 
     custom_layer_1: custom_layer_1 {
-      display-name = "Custom1";
+      display-name = "EscCapsSwap";
       bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &kp ESC &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
                &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans
-               &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans
+               &trans &trans &swap_shift &trans &trans &trans &trans &trans &trans &trans
           &trans  &trans  &trans  &trans  &trans
       >;
     };
@@ -325,5 +345,29 @@
       >;
     };
 
+
+    swap_nav_layer: swap_nav_layer {
+      display-name = "EscCapsNav";
+      bindings = <
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &kp CAPSLOCK &trans &trans &trans &trans &kp C_NEXT &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans
+      >;
+    };
+
+    swap_tt_layer: swap_tt_layer {
+      display-name = "EscCapsTT";
+      bindings = <
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &swap_tt_alt_l &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans
+      >;
+    };
   };
 };

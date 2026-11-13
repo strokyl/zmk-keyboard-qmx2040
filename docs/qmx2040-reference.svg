@@ -1,0 +1,426 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1620" viewBox="0 0 1400 1620">
+<rect width="1400" height="1620" fill="#edf2f6"/>
+<text x="42" y="47" font-family="DejaVu Sans, sans-serif" font-size="30" fill="#243445" text-anchor="start" font-weight="700">QMx2040 · your current keymap</text>
+<text x="42" y="78" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#243445" text-anchor="start" font-weight="400">French AZERTY  •  Thumb taps ON  •  Home-row mods ON  •  macOS OFF</text>
+<text x="42" y="106" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#617284" text-anchor="start" font-weight="400">Three views of the same physical keys. Smaller labels show the action when held.</text>
+<rect x="24" y="130" width="1352" height="455" rx="16" fill="#ffffff" stroke="none"/>
+<text x="43" y="164" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#244b68" text-anchor="start" font-weight="700">01  Typing</text>
+<text x="43" y="191" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#617284" text-anchor="start" font-weight="400">Tap actions + hold modifiers. Central Escape, Backspace and Enter are disabled; Delete stays active.</text>
+<rect x="43" y="228" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="83.5" y="255" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">²</text>
+<rect x="130" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="170.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">&amp; / 1</text>
+<rect x="217" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="257.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">é / 2</text>
+<rect x="304" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="344.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">&quot; / 3</text>
+<rect x="391" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="431.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">’ / 4</text>
+<rect x="478" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="518.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">( / 5</text>
+<rect x="565" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="605.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">PrtScr</text>
+<rect x="652" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="692.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Delete</text>
+<rect x="739" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="779.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">- / 6</text>
+<rect x="826" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="866.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">è / 7</text>
+<rect x="913" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="953.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">_ / 8</text>
+<rect x="1000" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1040.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">ç / 9</text>
+<rect x="1087" y="208" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1127.5" y="235" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">à / 0</text>
+<rect x="1174" y="228" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1214.5" y="255" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">) / °</text>
+<rect x="1261" y="228" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1301.5" y="255" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">= / +</text>
+<rect x="43" y="298" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="83.5" y="325" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Tab</text>
+<rect x="130" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="170.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">A</text>
+<rect x="217" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="257.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Z</text>
+<rect x="304" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="344.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">E</text>
+<rect x="391" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="431.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">R</text>
+<rect x="478" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="518.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">T</text>
+<rect x="565" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="605.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Caps</text>
+<rect x="652" y="278" width="81" height="62" rx="6" fill="#e4e8ec" stroke="#c7d0d9"/>
+<text x="692.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#244b68" text-anchor="middle" font-weight="600">Disabled</text>
+<rect x="739" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="779.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Y</text>
+<rect x="826" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="866.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">U</text>
+<rect x="913" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="953.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">I</text>
+<rect x="1000" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1040.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">O</text>
+<rect x="1087" y="278" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1127.5" y="305" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">P</text>
+<rect x="1174" y="298" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1214.5" y="325" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">^ / ¨</text>
+<rect x="1261" y="298" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1301.5" y="325" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">$ / £</text>
+<rect x="43" y="368" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="83.5" y="395" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">&lt; / &gt;</text>
+<rect x="130" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="170.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Q</text>
+<text x="170.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Shift</text>
+<rect x="217" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="257.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">S</text>
+<text x="257.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Super</text>
+<rect x="304" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="344.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">D</text>
+<text x="344.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Ctrl</text>
+<rect x="391" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="431.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">F</text>
+<text x="431.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Alt</text>
+<rect x="478" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="518.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">G</text>
+<rect x="565" y="348" width="81" height="62" rx="6" fill="#e4e8ec" stroke="#c7d0d9"/>
+<text x="605.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#244b68" text-anchor="middle" font-weight="600">Disabled</text>
+<rect x="652" y="348" width="81" height="62" rx="6" fill="#e4e8ec" stroke="#c7d0d9"/>
+<text x="692.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#244b68" text-anchor="middle" font-weight="600">Disabled</text>
+<rect x="739" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="779.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">H</text>
+<rect x="826" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="866.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">J</text>
+<text x="866.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Alt</text>
+<rect x="913" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="953.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">K</text>
+<text x="953.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Ctrl</text>
+<rect x="1000" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1040.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">L</text>
+<text x="1040.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Super</text>
+<rect x="1087" y="348" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1127.5" y="375" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">M</text>
+<text x="1127.5" y="397" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Shift</text>
+<rect x="1174" y="368" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1214.5" y="395" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">ù / %</text>
+<rect x="1261" y="368" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1301.5" y="395" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">* / µ</text>
+<rect x="130" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="170.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">W</text>
+<rect x="217" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="257.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">X</text>
+<rect x="304" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="344.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">C</text>
+<rect x="391" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="431.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">V</text>
+<rect x="478" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="518.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">B</text>
+<rect x="739" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="779.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">N</text>
+<rect x="826" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="866.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">, / ?</text>
+<rect x="913" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="953.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">; / .</text>
+<rect x="1000" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1040.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">: / /</text>
+<rect x="1087" y="418" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1127.5" y="445" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">! / §</text>
+<rect x="103" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="143.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Super</text>
+<text x="143.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Super</text>
+<rect x="194" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="234.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Esc</text>
+<text x="234.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Alt</text>
+<rect x="285" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="325.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Shift</text>
+<text x="325.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Shift</text>
+<rect x="376" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="416.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#244b68" text-anchor="middle" font-weight="600">Backspace</text>
+<rect x="467" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="507.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Tab</text>
+<text x="507.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Ctrl</text>
+<rect x="767" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="807.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Enter</text>
+<text x="807.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Ctrl</text>
+<rect x="858" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="898.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Space</text>
+<text x="898.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold NAV</text>
+<rect x="949" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="989.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">AltGr</text>
+<text x="989.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold SYM</text>
+<rect x="1040" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1080.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">PrtScr</text>
+<text x="1080.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Alt</text>
+<rect x="1131" y="503" width="81" height="62" rx="6" fill="#ffffff" stroke="#c7d0d9"/>
+<text x="1171.5" y="530" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#244b68" text-anchor="middle" font-weight="600">Super</text>
+<text x="1171.5" y="552" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#617284" text-anchor="middle" font-weight="400">hold Super</text>
+<rect x="24" y="604" width="1352" height="455" rx="16" fill="#ffffff" stroke="none"/>
+<text x="43" y="638" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#b6510b" text-anchor="start" font-weight="700">02  Navigation</text>
+<text x="43" y="665" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#617284" text-anchor="start" font-weight="400">Hold right Space · orange keys are Navigation actions; grey keys retain their typing action.</text>
+<rect x="43" y="702" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="83.5" y="729" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">²</text>
+<rect x="130" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="170.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F1</text>
+<rect x="217" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="257.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F2</text>
+<rect x="304" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="344.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F3</text>
+<rect x="391" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="431.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F4</text>
+<rect x="478" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="518.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F5</text>
+<rect x="565" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="605.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Previous</text>
+<rect x="652" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="692.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Volume +</text>
+<rect x="739" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="779.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F6</text>
+<rect x="826" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="866.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F7</text>
+<rect x="913" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="953.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F8</text>
+<rect x="1000" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1040.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F9</text>
+<rect x="1087" y="682" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1127.5" y="709" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F10</text>
+<rect x="1174" y="702" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1214.5" y="729" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F11</text>
+<rect x="1261" y="702" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1301.5" y="729" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">F12</text>
+<rect x="43" y="772" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="83.5" y="799" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#b6510b" text-anchor="middle" font-weight="600">Unlock ZMK</text>
+<rect x="130" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="170.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Esc</text>
+<rect x="217" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="257.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Home</text>
+<rect x="304" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="344.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">↑</text>
+<rect x="391" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="431.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">End</text>
+<rect x="478" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="518.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Page Up</text>
+<rect x="565" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="605.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Next</text>
+<rect x="652" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="692.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Volume −</text>
+<rect x="739" y="752" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="779.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Y</text>
+<rect x="826" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="866.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">7</text>
+<rect x="913" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="953.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">8</text>
+<rect x="1000" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1040.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">9</text>
+<rect x="1087" y="752" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1127.5" y="779" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">/</text>
+<rect x="1174" y="772" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1214.5" y="799" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Bright −</text>
+<rect x="1261" y="772" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1301.5" y="799" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Bright +</text>
+<rect x="43" y="842" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="83.5" y="869" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">&lt; / &gt;</text>
+<rect x="130" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="170.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#b6510b" text-anchor="middle" font-weight="600">Select all</text>
+<rect x="217" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="257.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">←</text>
+<rect x="304" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="344.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">↓</text>
+<rect x="391" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="431.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">→</text>
+<rect x="478" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="518.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Page Down</text>
+<rect x="565" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="605.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="12" fill="#b6510b" text-anchor="middle" font-weight="600">Play/Pause</text>
+<rect x="652" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="692.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Mute</text>
+<rect x="739" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="779.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">−</text>
+<rect x="826" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="866.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">4</text>
+<rect x="913" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="953.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">5</text>
+<rect x="1000" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1040.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">6</text>
+<rect x="1087" y="822" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1127.5" y="849" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">0</text>
+<rect x="1174" y="842" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1214.5" y="869" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">ù / %</text>
+<rect x="1261" y="842" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1301.5" y="869" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">* / µ</text>
+<rect x="130" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="170.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Undo</text>
+<rect x="217" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="257.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Cut</text>
+<rect x="304" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="344.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Copy</text>
+<rect x="391" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="431.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Paste</text>
+<rect x="478" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="518.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Redo</text>
+<rect x="739" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="779.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">,</text>
+<rect x="826" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="866.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">1</text>
+<rect x="913" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="953.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">2</text>
+<rect x="1000" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1040.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">3</text>
+<rect x="1087" y="892" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="1127.5" y="919" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Decimal</text>
+<rect x="103" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="143.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Super</text>
+<rect x="194" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="234.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Esc</text>
+<rect x="285" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="325.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Shift</text>
+<rect x="376" y="977" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="416.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#b6510b" text-anchor="middle" font-weight="600">Delete</text>
+<rect x="467" y="977" width="81" height="62" rx="6" fill="#fff4e8" stroke="#c7d0d9"/>
+<text x="507.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#b6510b" text-anchor="middle" font-weight="600">Shift+Tab</text>
+<rect x="767" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="807.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Enter</text>
+<rect x="858" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="898.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Space</text>
+<text x="898.5" y="1026" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#b6510b" text-anchor="middle" font-weight="400">hold NAV</text>
+<rect x="949" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="989.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">AltGr</text>
+<rect x="1040" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1080.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">PrtScr</text>
+<rect x="1131" y="977" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1171.5" y="1004" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Super</text>
+<rect x="24" y="1078" width="1352" height="455" rx="16" fill="#ffffff" stroke="none"/>
+<text x="43" y="1112" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#6943b4" text-anchor="start" font-weight="700">03  Symbols</text>
+<text x="43" y="1139" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#617284" text-anchor="start" font-weight="400">Hold AltGr · purple keys are Symbols actions; grey keys retain their typing action.</text>
+<rect x="43" y="1176" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="83.5" y="1203" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">²</text>
+<rect x="130" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="170.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">&amp; / 1</text>
+<rect x="217" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="257.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">é / 2</text>
+<rect x="304" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="344.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">&quot; / 3</text>
+<rect x="391" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="431.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">’ / 4</text>
+<rect x="478" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="518.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">( / 5</text>
+<rect x="565" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="605.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">PrtScr</text>
+<rect x="652" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="692.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Delete</text>
+<rect x="739" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="779.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">- / 6</text>
+<rect x="826" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="866.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">è / 7</text>
+<rect x="913" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="953.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">_ / 8</text>
+<rect x="1000" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1040.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">ç / 9</text>
+<rect x="1087" y="1156" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1127.5" y="1183" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">à / 0</text>
+<rect x="1174" y="1176" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1214.5" y="1203" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">) / °</text>
+<rect x="1261" y="1176" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1301.5" y="1203" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">= / +</text>
+<rect x="43" y="1246" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="83.5" y="1273" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Tab</text>
+<rect x="130" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="170.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">^</text>
+<rect x="217" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="257.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">&lt;</text>
+<rect x="304" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="344.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">&gt;</text>
+<rect x="391" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="431.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">$</text>
+<rect x="478" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="518.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">%</text>
+<rect x="565" y="1226" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="605.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Caps</text>
+<rect x="652" y="1226" width="81" height="62" rx="6" fill="#e4e8ec" stroke="#c7d0d9"/>
+<text x="692.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#778694" text-anchor="middle" font-weight="600">Disabled</text>
+<rect x="739" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="779.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">@</text>
+<rect x="826" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="866.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">&amp;</text>
+<rect x="913" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="953.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">*</text>
+<rect x="1000" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="1040.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">&#x27;</text>
+<rect x="1087" y="1226" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="1127.5" y="1253" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">`</text>
+<rect x="1174" y="1246" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1214.5" y="1273" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">^ / ¨</text>
+<rect x="1261" y="1246" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1301.5" y="1273" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">$ / £</text>
+<rect x="43" y="1316" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="83.5" y="1343" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">&lt; / &gt;</text>
+<rect x="130" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="170.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">{</text>
+<rect x="217" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="257.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">(</text>
+<rect x="304" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="344.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">)</text>
+<rect x="391" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="431.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">}</text>
+<rect x="478" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="518.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">=</text>
+<rect x="565" y="1296" width="81" height="62" rx="6" fill="#e4e8ec" stroke="#c7d0d9"/>
+<text x="605.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#778694" text-anchor="middle" font-weight="600">Disabled</text>
+<rect x="652" y="1296" width="81" height="62" rx="6" fill="#e4e8ec" stroke="#c7d0d9"/>
+<text x="692.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#778694" text-anchor="middle" font-weight="600">Disabled</text>
+<rect x="739" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="779.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">\</text>
+<rect x="826" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="866.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">+</text>
+<rect x="913" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="953.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">−</text>
+<rect x="1000" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="1040.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">/</text>
+<rect x="1087" y="1296" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="1127.5" y="1323" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">&quot;</text>
+<rect x="1174" y="1316" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1214.5" y="1343" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">ù / %</text>
+<rect x="1261" y="1316" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1301.5" y="1343" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">* / µ</text>
+<rect x="130" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="170.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">~</text>
+<rect x="217" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="257.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">[</text>
+<rect x="304" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="344.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">]</text>
+<rect x="391" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="431.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">_</text>
+<rect x="478" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="518.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">#</text>
+<rect x="739" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="779.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">|</text>
+<rect x="826" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="866.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">!</text>
+<rect x="913" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="953.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">;</text>
+<rect x="1000" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="1040.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">:</text>
+<rect x="1087" y="1366" width="81" height="62" rx="6" fill="#f4effc" stroke="#c7d0d9"/>
+<text x="1127.5" y="1393" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#6943b4" text-anchor="middle" font-weight="600">?</text>
+<rect x="103" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="143.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Super</text>
+<rect x="194" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="234.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Esc</text>
+<rect x="285" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="325.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Shift</text>
+<rect x="376" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="416.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#778694" text-anchor="middle" font-weight="600">Backspace</text>
+<rect x="467" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="507.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Tab</text>
+<rect x="767" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="807.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Enter</text>
+<rect x="858" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="898.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Space</text>
+<rect x="949" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="989.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">AltGr</text>
+<text x="989.5" y="1500" font-family="DejaVu Sans, sans-serif" font-size="11" fill="#6943b4" text-anchor="middle" font-weight="400">hold SYM</text>
+<rect x="1040" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1080.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">PrtScr</text>
+<rect x="1131" y="1451" width="81" height="62" rx="6" fill="#f1f4f7" stroke="#c7d0d9"/>
+<text x="1171.5" y="1478" font-family="DejaVu Sans, sans-serif" font-size="19" fill="#778694" text-anchor="middle" font-weight="600">Super</text>
+<text x="43" y="1575" font-family="DejaVu Sans, sans-serif" font-size="14" fill="#243445" text-anchor="start" font-weight="400">Hold timing: Space / AltGr / home-row mods 300 ms · Esc, Tab, Enter and PrtScr thumb modifiers 150 ms.</text>
+<text x="43" y="1600" font-family="DejaVu Sans, sans-serif" font-size="13" fill="#617284" text-anchor="start" font-weight="400">Shift and AltGr tap as one-shot modifiers. Numpad decimal follows the host settings. Diagram reflects config/qmx2040.keymap.</text>
+</svg>

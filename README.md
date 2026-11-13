@@ -19,7 +19,14 @@ Going from left to right, those switches can:
 - enable home row mods
 - disable sticky keys
 - enable Mac support
-- toggle your custom layer
+- swap Escape and Caps Lock (including thumb taps and Navigation)
+
+### Escape / Caps Lock swap (QMx2040)
+
+The last DIP switch swaps Escape and Caps Lock. This includes the Escape
+thumb tap, Navigation's Escape key, and AltGr + Shift's Caps Lock action.
+Navigation media controls keep their existing functions. Turn the switch off
+to restore the original bindings.
 
 ### Symbols (QMx2040)
 
