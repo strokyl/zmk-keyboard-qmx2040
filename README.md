@@ -82,6 +82,10 @@ Editing shortcuts target French AZERTY and use Command when the Mac DIP switch
 is enabled. The number row keeps F1–F12; media and brightness keys remain
 available around the main grid.
 
+Home-row holds use the same modifiers in both OS modes: GUI on S/L, Control
+on D/K, and Alt on F/J (physical QWERTY positions). On macOS, GUI is Command
+and Alt is Option.
+
 ### Mod-Holds
 
 The navigation layer makes use of a custom zmk behavior called a `mod-hold`.
@@ -93,7 +97,9 @@ even if they are on the same hand (like ctrl and shift).
 
 This keymap uses a numpad, but doesn’t include a `num-lock` key, as the state
 of this flag is handled by the keyboard. When pressing a numpad key, `num-lock`
-will be automatically forced on if it wasn’t already.
+will be automatically forced on if it wasn’t already, except when the QMx2040
+Mac DIP switch is enabled. In Mac mode, Navigation sends keypad digits and
+operators directly, without injecting Num Lock.
 
 ## Quaxe
 
