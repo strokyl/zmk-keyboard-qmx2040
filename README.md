@@ -36,9 +36,11 @@ enabled or disabled.
 With thumb taps enabled:
 
 - The left Backspace/Nav thumb key only sends Backspace (no layer on hold).
-- AltGr taps a one-shot AltGr modifier and holds Symbols after 300 ms.
+- Tap AltGr for Symbols on the next key (for example, tap AltGr, then S for `(`).
+  Hold AltGr for 300 ms to keep Symbols active while held.
 
-Release Space or AltGr to leave its layer. Symbols follows the
+Release Space or a held AltGr to leave its layer. A tapped Symbols layer
+ends after the next key or the sticky-layer timeout. Symbols follows the
 [Arsenik Symbols layer](https://github.com/OneDeadKey/arsenik#symbols).
 With thumb taps disabled, AltGr keeps its original behavior.
 
