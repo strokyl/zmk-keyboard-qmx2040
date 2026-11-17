@@ -25,7 +25,7 @@ static int on_numpad_binding_pressed(
         .param1 = KP_NUM,
     };
 
-    if (!zmk_hid_indicators_get_current_profile() & 1) {
+    if (!(zmk_hid_indicators_get_current_profile() & 1)) {
         zmk_behavior_invoke_binding(&kp_binding, event, true);
         zmk_behavior_invoke_binding(&kp_binding, event, false);
     }
